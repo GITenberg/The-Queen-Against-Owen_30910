@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32167
     wikipedia: http://en.wikipedia.org/wiki/Allen_Upward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30910#The-Queen-Against-Owen
 gutenberg_issued: '2010-01-10'
 gutenberg_type: Text
 identifiers:
