@@ -1,0 +1,29 @@
+_repo: The-Queen-Against-Owen_30910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Upward, Allen
+    alias: Upward, A. (Allen)
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '32167'
+    url: http://www.gutenberg.org/2009/agents/32167
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Upward
+description: ''
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Legal stories'
+title: The Queen Against Owen
+url: http://www.gutenberg.org/ebooks/30910
